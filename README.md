@@ -8,5 +8,6 @@ A peer-to-peer WebRTC application with controls
 ```javascript
 let APP_ID = "COPIED-APP-ID" from agora.io projects
 ```
+Now you are good to go🐱‍🚀
 
 
